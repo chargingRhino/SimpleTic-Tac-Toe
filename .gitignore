@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Tic-Tac-Toe (Kotlin)/*
+!/Simple Tic-Tac-Toe (Kotlin)/task/
+/Simple Tic-Tac-Toe (Kotlin)/task/*
+!/Simple Tic-Tac-Toe (Kotlin)/task/src
+
+# Project exclude paths
+/Topics/Standard output/Print the square of a given number/out/
+/Topics/Standard output/Print the square of a given number/out/production/classes/
